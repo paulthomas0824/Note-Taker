@@ -14,7 +14,7 @@ This Application helps you connect to local host server using express and allowi
 ### Screenshots
 ![This screenshot shows the source code of the project](./img/Capture.jpg)
 This screenshot shows the source code of the project
-![Capture](https://user-images.githubusercontent.com/21247085/119748819-5efef280-be5b-11eb-86b8-ffd35339c3df.JPG)
+![Capture](https://user-images.githubusercontent.com/21247085/121103318-58f70300-c7c5-11eb-9908-f2eb0ec132c1.JPG)
 
 ## Questions
 If you have any questions about the repo, please [open an issue](https://github.com/paulthomas0824/ReadMe-Generator/issues) or contact me via email at paulthomas0824@gmail.com. You can find more of my work on my GitHub, [paulthomas0824](https://github.com/paulthomas0824/).
